@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.school{
+    background-image: url("school.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+  }
+  .width{
+   width: 95%;
+   margin: 0 auto;
+}
+.btncolor{
+    background-color:pink;
+    border: 2px double red;
+}
+.text{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-right: 30px;
+    text-align: center;
+}
+.lfloat{
+    float: left;
+}
+.rfloat{
+    float: right;
+}
+.widl{
+    width: 70%;
+}
+.widr{
+    width: 30%;
+}
